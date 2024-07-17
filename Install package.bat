@@ -12,3 +12,8 @@ choco install blender
 
 choco install qtcreator
 choco install everything
+choco install python
+choco install phpmyadmin
+choco install mysql
+
+
