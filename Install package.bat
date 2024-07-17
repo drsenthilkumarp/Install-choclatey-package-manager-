@@ -9,3 +9,6 @@ choco install pdfview
 choco install teamviewer 
 choco install anydesk 
 choco install blender
+
+choco install qtcreator
+choco install everything
