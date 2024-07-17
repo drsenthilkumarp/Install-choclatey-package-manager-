@@ -1,13 +1,3 @@
 # Install-choclatey-package-manager-
 
-choco install zoom
-choco install googlechrome
-choco install vlc
-choco install vscode
-choco install mingw
-choco install arduino
-choco install nodepadplusplus
-choco install pdfview
-choco install teamviewer
-choco install anydesk
-choco install blender
+Chocolatey is a machine-level, command-line package manager and installer for software on Microsoft Windows. It uses the NuGet packaging infrastructure and Windows PowerShell to simplify the process of downloading and installing software.
